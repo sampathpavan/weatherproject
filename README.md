@@ -66,8 +66,7 @@ Run both backend and frontend projects.
 
 # Dependencies
 
-## 1.) Axios : 
-        For making HTTP requests to the OpenWeatherMap API and backend server.
+## 1.) Axios : <p>For making HTTP requests to the OpenWeatherMap API and backend server.</p>
 ## 2.) chart.js
 ## 3.) React-dom
 
