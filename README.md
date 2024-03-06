@@ -1,12 +1,11 @@
 # Weather App using spring boot and React
 
 This Application uses OpenWeather api and empowers users to access real-time weather data based on their location coordinates. In the main UI user will be asked to allow the permission and after allowing
-the permission user will be able to see the temperature, cityname, latitude and longitude.
+the permission user will be able to see the temperature, cityname, latitude and longitude. 
+User can also able to see the weather history, weather chart based on frequency.
 
 # OpenWeather API
 <a>https://openweathermap.org/api</a>
-
-User can also able to see the weather history, weather chart based on frequency.
 
 # Tech-stack
 1.) React
