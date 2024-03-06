@@ -1,6 +1,6 @@
 # Weather App using spring boot and React
 
-This Application uses OpenWeather api and empowers users to access real-time weather data based on their location coordinates. In the main UI user will be asked to allow the permission and after allowing
+This Application uses OpenWeather api and empowers users to access real-time weather data based on their location coordinates. In the main UI user will be asked to allow the permission and after granting
 the permission user will be able to see the temperature, cityname, latitude and longitude. 
 User can also able to see the weather history, weather chart based on frequency.
 
@@ -14,8 +14,6 @@ User can also able to see the weather history, weather chart based on frequency.
 
 3.) Mysql
 
-4.) Postman
-
 # IDE used
 
 1.) STS
@@ -23,6 +21,8 @@ User can also able to see the weather history, weather chart based on frequency.
 2.) VS Code
 
 3.) MySQL DB
+
+4.) Postman
 
 # Features 
 
@@ -74,7 +74,7 @@ Run both backend and frontend projects.
 
 # Important Points
 
-## 1.) Make sure to replace apikey.
-## 2.) Make sure to see the port numbers in frontend and backend
+### 1.) Make sure to replace apikey.
+### 2.) Make sure to see the port numbers in frontend and backend
 
 
