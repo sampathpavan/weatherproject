@@ -4,7 +4,7 @@ This Application uses OpenWeather api and empowers users to access real-time wea
 the permission user will be able to see the temperature, cityname, latitude and longitude.
 
 # OpenWeather API
-<a>https://openweathermap.org/api</a/>
+<a>https://openweathermap.org/api</a>
 
 User can also able to see the weather history, weather chart based on frequency.
 
