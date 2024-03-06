@@ -55,7 +55,7 @@ Data of each will be stored in the respective tables
 # Sample UI output
 
 ![weatherOutput](https://github.com/sampathpavan/weatherproject/assets/73058239/7ddaf0f4-ae5d-4661-91ec-baec43418016)
-![Screenshot (363)](https://github.com/sampathpavan/weatherproject/assets/73058239/77bf1775-b7a9-46ed-9449-ad82da5d9b93)
+![weatherHistoryChart](https://github.com/sampathpavan/weatherproject/assets/73058239/e9a50c50-8473-4573-b6c6-6a3b552e40e4)
 
 
 # Setup
@@ -66,7 +66,8 @@ Run both backend and frontend projects.
 
 # Dependencies
 
-## 1.) Axios
+## 1.) Axios : 
+        For making HTTP requests to the OpenWeatherMap API and backend server.
 ## 2.) chart.js
 ## 3.) React-dom
 
