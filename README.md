@@ -59,3 +59,12 @@ Data of each will be stored in the respective tables
 # Setup
 
 Clone the repository which contains backend and frontend code.
+Add the required dependencies in the frontend and backend by using npm install command in react project.
+Run both backend and frontend projects.
+
+# Important Points
+
+## 1.) Make sure to replace apikey with your apikey
+## 2.) Make sure to see the port numbers in frontend and backend
+
+
