@@ -3,6 +3,9 @@
 This Application uses OpenWeather api and empowers users to access real-time weather data based on their location coordinates. In the main UI user will be asked to allow the permission and after allowing
 the permission user will be able to see the temperature, cityname, latitude and longitude.
 
+# OpenWeather API
+<a>https://openweathermap.org/api</a/>
+
 User can also able to see the weather history, weather chart based on frequency.
 
 # Tech-stack
@@ -53,7 +56,7 @@ Data of each will be stored in the respective tables
 # Sample UI output
 
 ![weatherOutput](https://github.com/sampathpavan/weatherproject/assets/73058239/7ddaf0f4-ae5d-4661-91ec-baec43418016)
-![WeatherHistoryAndChart](https://github.com/sampathpavan/weatherproject/assets/73058239/03085c2d-f34e-4d9a-8726-49950a641b5b)
+![Screenshot (363)](https://github.com/sampathpavan/weatherproject/assets/73058239/77bf1775-b7a9-46ed-9449-ad82da5d9b93)
 
 
 # Setup
@@ -62,9 +65,15 @@ Clone the repository which contains backend and frontend code.
 Add the required dependencies in the frontend and backend by using npm install command in react project.
 Run both backend and frontend projects.
 
+# Dependencies
+
+## 1.) Axios
+## 2.) chart.js
+## 3.) React-dom
+
 # Important Points
 
-## 1.) Make sure to replace apikey with your apikey
+## 1.) Make sure to replace apikey.
 ## 2.) Make sure to see the port numbers in frontend and backend
 
 
